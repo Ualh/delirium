@@ -124,6 +124,8 @@ ipython_config.py
 #   in the .venv directory. It is recommended not to include this directory in version control.
 .pixi
 
+/prompt
+
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
@@ -143,6 +145,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+deli_env
+deli_env310
 
 # Spyder project settings
 .spyderproject
