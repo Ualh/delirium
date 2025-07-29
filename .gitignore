@@ -145,8 +145,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 deli_env/
 deli_env310/
+=======
+deli_env
+deli_env310
+>>>>>>> 53d383efa79a7a1fdb55734bfad7cfa2f9b10eb6
 
 # Spyder project settings
 .spyderproject
